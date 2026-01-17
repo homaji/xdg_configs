@@ -1,3 +1,5 @@
 [user]
 	email = homaji@gmail.com
 	name = homaji
+[gui]
+	recentrepo = C:/Users/homaj/.config
